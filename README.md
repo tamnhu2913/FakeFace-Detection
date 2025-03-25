@@ -17,11 +17,11 @@ The dataset includes:
 - **Real faces** (directly captured images).  
 - **Fake faces** (captured from screens, videos, or ID cards).
 
-**Fake Example:**  
-![Fake Example]([dataset_examples/example_fake.png](https://github.com/user-attachments/assets/54641156-b87a-4007-9a59-f92d98edf17a))
+**Read Example:**  
+![Real Example](https://github.com/user-attachments/assets/54641156-b87a-4007-9a59-f92d98edf17a)
 
-**Real Example:**  
-![Real Example](https://github.com/user-attachments/assets/8e2a0f6e-60cb-489a-9424-434f327c8b57)
+**Fake Example:**  
+![Fake Example](https://github.com/user-attachments/assets/8e2a0f6e-60cb-489a-9424-434f327c8b57)
 
 All images are labeled and preprocessed for training.  
 
