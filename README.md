@@ -27,6 +27,10 @@ All images are labeled and preprocessed for training.
 - The model achieves **high accuracy** in detecting screen-captured faces.  
 - It can be extended to detect other spoofing techniques.  
 
+https://github.com/user-attachments/assets/cc967c05-0afd-4877-b6f0-57cf18abdf9e
+
+https://github.com/user-attachments/assets/f4db5601-e635-4ec6-856b-6fbbdb3ab255
+
 ## Future Development  
 - Improve mAP by collecting more diverse data.  
 - Optimize the model for mobile and real-time applications.  
