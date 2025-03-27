@@ -35,3 +35,7 @@ https://github.com/user-attachments/assets/f4db5601-e635-4ec6-856b-6fbbdb3ab255
 - Improve mAP by collecting more diverse data.  
 - Optimize the model for mobile and real-time applications.  
 - Integrate into online identity verification systems.  
+
+## References
+1. https://github.com/AarohiSingla/Faster-R-CNN-on-custom-dataset-Using-Pytorch/tree/main
+2. https://www.kaggle.com/code/arunmohan003/fasterrcnn-using-pytorch-baseline
